@@ -8,14 +8,6 @@
 #   id -- for naming things
 #   list.csv -- list of errors
 ###################################################################
-############################################################################################
-# UPDATE!!!  NOW ********5 ********** FILES.
-#   4 - !!!!!!!!!!!!!!         determine which of the produced syllables are CCVCC with each
-#                               edge cluster being a cluster that's in my input....  this is to
-#                                show that instances != syllables.
-#
-# 5 - TEH ADDITIONAL ONE SHOULD SHOW MV ERRORS VS OTHER KINDS OF ERRORS:
-############################################################################################
 
 import optparse # deprecated; use argparse
 import csv
