@@ -3,10 +3,6 @@
 # shift-apple-T  ==> toggle fold
 ####################################################################
 # Compares target and produced syllables to determine the error type.
-#
-# Usage: determine_error_types.py id list.csv
-#   id -- for naming things
-#   list.csv -- list of errors
 ###################################################################
 
 import optparse # deprecated; use argparse
